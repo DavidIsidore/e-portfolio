@@ -10,15 +10,16 @@
 
 .content_single {
     width:30%;
-    height: 150px;
+    height: 200px;
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #E5AD24;
+    background-color: #d96f12;
     border-radius: 25px;
 }
 
 .quisuisje, .myway, .myworks {
     font-size: 20px;
     color:black;
+    font-size: 24px;
 }

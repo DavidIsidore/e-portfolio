@@ -10,6 +10,13 @@
     margin-left: 2.5%;
 }
 
+.footer_content {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top:2%;
+}
+
 .logos {
     display: flex;
     flex-direction: row;
