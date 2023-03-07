@@ -1,11 +1,13 @@
 .nav {
-    width: 50%;
+    width: 75%;
 }
 
 .nav_list {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
+    list-style: none;
+    font-size: 20px;
 }
 
 a{
