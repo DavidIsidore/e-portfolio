@@ -9,23 +9,17 @@ export default function Works() {
             <Header />
             <div>
                 <h1>Mes projets développés</h1>
-                <ul>
-                    <li>
-                        <Link to="https://davidisidore.github.io/Livrables-P2/">
-                            Booki
-                        </Link>
-                    </li>
-                    <li>
-                        <Link to="https://davidisidore.github.io/Projet3/">
-                            OhMyFood
-                        </Link>
-                    </li>
-                    <li>
-                        <Link to="https://davidisidore.github.io/Kasa/">
-                            Kasa
-                        </Link>
-                    </li>
-                </ul>
+                <div>
+                    <Link to="https://davidisidore.github.io/Livrables-P2/">
+                        Booki
+                    </Link>
+
+                    <Link to="https://davidisidore.github.io/Projet3/">
+                        OhMyFood
+                    </Link>
+
+                    <Link to="https://davidisidore.github.io/Kasa/">Kasa</Link>
+                </div>
             </div>
             <Footer />
         </div>
