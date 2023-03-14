@@ -5,6 +5,7 @@ import { Link } from 'react-router-dom'
 import booki from '../../assets/Booki.png'
 import food from '../../assets/ohmyfood.png'
 import kasa from '../../assets/kasa.svg'
+import './works.css'
 
 export default function Works() {
     return (
@@ -42,7 +43,11 @@ export default function Works() {
             <div>
                 <h2>Autres travaux</h2>
                 <div>
-                    <Link to="https://caroline-gayral.com/" target="_blank">
+                    <Link
+                        to="https://caroline-gayral.com/"
+                        target="_blank"
+                        className="link"
+                    >
                         caroline-gayral.com
                     </Link>
                 </div>
