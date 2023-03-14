@@ -14,12 +14,12 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #d96f12;
+    background-color: black;
     border-radius: 25px;
 }
 
 .quisuisje, .myway, .myworks {
     font-size: 20px;
-    color:black;
+    color:white;
     font-size: 24px;
 }

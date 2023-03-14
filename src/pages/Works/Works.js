@@ -11,17 +11,40 @@ export default function Works() {
         <div>
             <Header />
             <div>
-                <h1>Mes projets développés</h1>
+                <h1>Mes réalisations</h1>
+                <h2>Dans le cadre de ma formation de Développeur Web</h2>
+
                 <div>
-                    <Link to="https://davidisidore.github.io/Livrables-P2/">
+                    <Link
+                        to="https://davidisidore.github.io/Livrables-P2/"
+                        target="_blank"
+                    >
+                        <img src={booki} alt="logo Booki" />
                         Booki
                     </Link>
 
-                    <Link to="https://davidisidore.github.io/Projet3/">
+                    <Link
+                        to="https://davidisidore.github.io/Projet3/"
+                        target="_blank"
+                    >
+                        <img src={food} alt="logo OhMyFood" />
                         OhMyFood
                     </Link>
 
-                    <Link to="https://davidisidore.github.io/Kasa/">Kasa</Link>
+                    <Link
+                        to="https://davidisidore.github.io/Kasa/"
+                        target="_blank"
+                    >
+                        <img src={kasa} alt="logo Kasa" /> Kasa
+                    </Link>
+                </div>
+            </div>
+            <div>
+                <h2>Autres travaux</h2>
+                <div>
+                    <Link to="https://caroline-gayral.com/" target="_blank">
+                        caroline-gayral.com
+                    </Link>
                 </div>
             </div>
             <Footer />
