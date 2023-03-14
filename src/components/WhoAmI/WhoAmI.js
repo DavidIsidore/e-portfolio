@@ -6,75 +6,40 @@ export default function WhoAmI() {
         <div className="whoami">
             <h1>Qui suis-je</h1>
             <div className="text">
+                <p>Avant tout, un passionné.</p>
+                <p>Passionné d'informatique, bien sûr, mais pas que ...</p>
                 <p>
-                    Après un BTS Traitements de Surfaces obtenu en 1997, je
-                    passe quasiment 20 ans dans différentes branches de
-                    l’industrie : tôlerie fine, peinture, nickel électrolytique
-                    et chimique pour finir par de l’usinage chimique dans le
-                    secteur aéronautique.
+                    J'ai fait mes premiers pas dans la programmation avec le
+                    langage Logo sur un EXL100 en 1985. Je découvre alors avec
+                    bonheur le plaisir de réaliser un projet du début à la fin,
+                    mais aussi toutes ses contraintes: la machine n'est pas très
+                    rapide et je me rends vite compte qu'il faut éditer un
+                    visuel de ce que l'on veut faire avant de se mettre derrière
+                    le clavier.
                 </p>
                 <p>
-                    C’est le moment où mon aîné commence à aller à l’école mais,
-                    avec mon épouse, nous nous rendons compte pendant sa
-                    deuxième année de maternelle que ce système ne lui convient
-                    pas. Nous décidons de déménager de Colomiers vers Albi (je
-                    garde mon emploi sur la région toulousaine, travaillant de
-                    week-end à cette période de ma vie) pour le placer en école
-                    Montessori . Je commence à m’intéresser à cette pédagogie
-                    pour comprendre comment il y travaille et je me forme auprès
-                    de l’association « Le chemin de l’enfant ».
+                    Ma plus grande réussite de l'époque ? Avoir réussi à animer
+                    un bonhomme "fil de fer" en le faisant marcher.
                 </p>
                 <p>
-                    L’éloignement avec la famille et le décalage d’emplois du
-                    temps ont raison de ma volonté de continuer dans mon secteur
-                    d’activité et je crée mon auto-entreprise qui propose du
-                    soutien scolaire niveau collège et des ateliers Montessori à
-                    destination d’enfants trisomiques. La directrice de l’école
-                    dans laquelle sont scolarisés mes enfants me prête les
-                    locaux de l’école (je ne la remercierai jamais assez) pour
-                    mon activité qui se déroule le mercredi. Le reste de la
-                    semaine, je l’occupe en donnant un coup de main à l’école
-                    (surveillance pendant les temps de repas et de garderie).
-                    Lorsqu’une collègue tombe malade, la directrice me propose
-                    de m’embaucher au sein de l’école et c’est le départ d’une
-                    nouvelle aventure qui durera 4 années.
+                    En classe de cinquième, je continue avec mon professeur de
+                    technologie par du langage BASIC sur un MO5. Je réalise à ce
+                    moment-là que j'ai plus la logique de l'algorithme que mes
+                    camarades. Les heures passées sur l'EXL100 portent leurs
+                    fruits.
                 </p>
                 <p>
-                    Malheureusement, le confinement pendant la pandémie et des
-                    problèmes de santé me forceront à arrêter cette activité.
-                    Nous faisons le choix avec mon épouse de nous « mettre au
-                    vert » et de ralentir le rythme effréné dans lequel nous
-                    nous étions enfermés et nous déménageons une fois de plus,
-                    dans le Cantal.
+                    Pendant mes années lycée, l'informatique prendra moins de
+                    place dans ma vie. Cependant, à la fac de Sciences de
+                    Montpellier, j'y reviendrai grâce à des cours de
+                    programmation, en Quickbasic cette fois. Ce sera l'occasion
+                    de mettre à contribution le vieux PC 286 de la maison pour
+                    modifier les programmes Nibbles et Gorillas, présents à
+                    l'époque sur Windows 3.1.
                 </p>
-                <p>
-                    Je décide pour me réorienter de revenir à mes premières
-                    amours : l’informatique.
-                </p>
-                <p>
-                    Je pense m’orienter vers le community management pour, entre
-                    autres, seconder mon épouse qui a entretemps créé son
-                    auto-entreprise également. Mais je me rends compte, en
-                    faisant quelques recherches avant de choisir la plateforme
-                    de formation, que la gestion de contenu sur les réseaux
-                    sociaux ne m’est pas aussi aisée que je l’avais pensé au
-                    départ. L’évidence s’impose clairement à moi : puisque j’ai
-                    aidé mon épouse et une amie à mettre leur site en place sous
-                    Wordpress, je n’ai qu’à continuer dans cette voie. Mon choix
-                    est alors fait : je me tourne vers le développement Web.
-                </p>
-                <p>
-                    En quelques jours, le dossier est monté auprès de Pôle
-                    Emploi et je débute officiellement ma formation chez
-                    OpenClassrooms le 1er juillet 2022. Finalement, après
-                    quelques frayeurs pour avoir pris un peu de retard sur un
-                    projet, je vais pouvoir terminer ma formation avec une
-                    semaine d’avance sur le programme prévu, le 21 février.
-                </p>
-                <p>
-                    Il est temps maintenant de rejoindre le grand bain de la
-                    recherche d’emploi.
-                </p>
+                <p></p>
+                <p></p>
+                <p></p>
             </div>
         </div>
     )

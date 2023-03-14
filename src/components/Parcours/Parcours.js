@@ -1,4 +1,5 @@
 import React from 'react'
+import './parcours.css'
 
 export default function Parcours() {
     return (
