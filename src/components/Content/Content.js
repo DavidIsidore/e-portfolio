@@ -15,6 +15,7 @@ export default function Content() {
                     Mon parcours
                 </Link>
             </div>
+
             <div className="content_single">
                 <Link to="myworks" className="myworks">
                     Mes réalisations
